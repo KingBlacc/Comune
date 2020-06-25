@@ -1,4 +1,4 @@
-# Comune
+# Comune.IT
 
 ## Steps to follow:
 * Clone this respository 
